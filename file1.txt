@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 testing line
+untesting
 commit.test
 test
 456
